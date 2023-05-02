@@ -1,10 +1,26 @@
-# Getting Started with Create React App
+# Doctors Portal
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was done via React, ExpressJs, MongoDb and NodeJs. Client side is deployed in Firebase and Server side is deployed in Vercel
+
+## Feature
+
+At home page you can see different sections about the services. User can take appointment for different services at appointment tab. On the dashboard tab user can see all his selected services. There user will give his payment information to buy a services. \
+There is option for admin dashboard. Admin can change the order status of the user and can also add/delete new doctor. Admin had the privilages to make anyone admin by reciving name and email address.\
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `Live site`
+
+You can click the link to see the live project.\
+Open [https://doctors-portal-bc8ec.web.app/](https://doctors-portal-bc8ec.web.app/) to view it in the browser.
+
+### `Server site`
+
+You can click the link to see server side code.\
+Open [https://github.com/Nazrul-Islam-Hasib/doctors-portal-server](https://github.com/Nazrul-Islam-Hasib/doctors-portal-server) to view the server side implementation.
+
 
 ### `npm start`
 
